@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"Trouter"
+	"github.com/liukang56/Trouter"
 	"log"
 )
 
